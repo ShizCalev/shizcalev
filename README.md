@@ -1,6 +1,6 @@
 [![ShizCalev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShizCalev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ShizCalev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShizCalev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![ShizCalev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shizcalev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

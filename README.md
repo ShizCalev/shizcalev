@@ -2,7 +2,9 @@
 
 [![ShizCalev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShizCalev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShizCalev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShizCalev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tgstation&repo=tgstation&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ShizCalev/shizcalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

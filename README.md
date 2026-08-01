@@ -1,6 +1,6 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ShizCalev&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=ShizCalev&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ShizCalev&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=noctis_minimus)](https://github-stats-extended.vercel.app/api?username=ShizCalev&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=noctis_minimus)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ShizCalev&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://wakatime.com/@ShizCalev)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ShizCalev&layout=compact&langs_count=6&theme=noctis_minimus)](https://wakatime.com/@ShizCalev)
 
 
 <!--

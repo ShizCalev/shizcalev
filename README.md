@@ -1,7 +1,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ShizCalev&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=ShizCalev&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ShizCalev&layout=compact&langs_count=6&theme=github_dark)](https://wakatime.com/@ShizCalev)
-
+i like metal gear.
 
 <!--
 **ShizCalev/shizcalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
